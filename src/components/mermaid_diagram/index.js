@@ -8,18 +8,7 @@ import {
   style,
 } from '../sample';
 import './style.css';
-import {
-  Box,
-  Button,
-  Card,
-  FormControl,
-  FormControlLabel,
-  FormLabel,
-  Modal,
-  Radio,
-  RadioGroup,
-  Typography,
-} from '@mui/material';
+import { Box, Button, Card, Modal, Typography } from '@mui/material';
 import FilterGroup from '../radio';
 
 const MermaidChart = () => {
